@@ -7,8 +7,6 @@ repoMd='`'"$repo"'`'
 cat <<EOF
 # $repoMd repo-info
 
-This directory contains additional information about the published artifacts of [the $repoMd official image](https://hub.docker.com/_/$repo/).
-
 -	[the \`remote\` directory](remote/):
 
 	-	gathered from the Docker Hub/Registry API
